@@ -10,7 +10,7 @@
   "author": "Nathan",
   "license": "MIT",
   "dependencies": {
-    "@whiskeysockets/baileys": "npm:@yupra/baileys@latest",
+    "@whiskeysockets/baileys": "npm:nathr-bailku",
     "canvas": "^2.11.2",
     "chalk": "^5.3.0",
     "jimp": "^0.16.13",
